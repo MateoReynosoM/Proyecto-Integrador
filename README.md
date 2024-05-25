@@ -5,11 +5,11 @@ DNI:43881462
 Mail:mateoreynoso2009@gmail.com
 Github:https://github.com/MateoReynosoM
 
-Nombre:
-Apellidos:
-DNI:
-Mail:
-Github:
+Nombre: Simon Azul 
+Apellidos: Sanchez Vottero
+DNI: 39173576
+Mail: simonvottero.95@gmail.com
+Github: https://github.com/simonbleu
 
 Nombre:
 Apellidos:
