@@ -64,4 +64,4 @@ Algoritmo CompetenciaMultideportiva
 FinAlgoritmo
 
 Diagrama Entidad Relacion(chen):
-![alt text](image.png)
+![alt text](image1.png)
