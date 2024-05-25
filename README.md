@@ -11,10 +11,10 @@ DNI: 39173576
 Mail: simonvottero.95@gmail.com
 Github: https://github.com/simonbleu
 
-Nombre:
-Apellidos:
-DNI:
-Mail:
+Nombre: Oscar Matías
+Apellidos: Michelan
+DNI: 26196723
+Mail: kanchis2015@gmail.com
 Github:
 
 
