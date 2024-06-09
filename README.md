@@ -22,9 +22,26 @@ DNI: 26196723
 Mail: kanchis2015@gmail.com
 Github:https://github.com/Kanchiskan
 
-
 Propuesta:
 Desarrollar una aplicación que facilite la organización integral de eventos multideportivos. Esta herramienta permitirá gestionar a los participantes, agregar diversas disciplinas deportivas y organizar los encuentros, así como los horarios de cada evento de manera eficiente.
+
+Analisis:
+
+ENTRADAS:
+- seleccion: Variable de numero entero que permite navegar a traves del menu
+    
+Tambien se leen las variables: AñadirAtleta, EliminarAtleta, AñadirEquipo, EliminarEquipo, AñadirDeporte, EliminarDeporte, AñadirCompeticion, EliminarCompeticion, y MostrarPuntajes. Todas ellas actuan como placeholder para el futuro desarrollo de la aplicacion
+
+PROCESOS:
+- El programa muestra las opciones del menu e insta al usuario a ingresar el numero correspondiente a una de ellas
+- El programa lee y guarda la opcion del usuario
+- El programa ejecuta la opcion seleccionada por el usuario usuario, mostrando o leyendo la variable correspondiente
+  
+SALIDAS:
+ - Si el usuario selecciono alguna de las opciones del menu a excepcion de la de salida, se ejecuta la opcion correspondiente y luego se vuelve a ejecutar el menu principal
+ - Si el usuario selecciono alguna opcion que no este en el menu, el programa informara del error e instara al usuario a elegir nuevamente
+ - Si el usuario selecciona la ultima opcion del menu, el programa da un mensaje de despedida y finaliza.
+
 
 Pseudocodigo del menu (adjuntado en pseint en el repositorio):
  
